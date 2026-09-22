@@ -4,8 +4,9 @@
   <id>https://howaaard0423.github.io/</id>
   <link href="https://howaaard0423.github.io/" rel="alternate"/>
   <link href="https://howaaard0423.github.io/atom.xml" rel="self"/>
-  <updated>2026-05-12T13:41:08.571Z</updated>
+  <updated>2026-05-13T07:18:56.411Z</updated>
   <entry>
+    <category term="Auto" scheme="https://howaaard0423.github.io/categories/Auto/"/>
     <category term="Hexo" scheme="https://howaaard0423.github.io/tags/Hexo/"/>
     <category term="HelloWorld" scheme="https://howaaard0423.github.io/tags/HelloWorld/"/>
     <content>
@@ -14,10 +15,8 @@
     <id>https://howaaard0423.github.io/2026/05/11/hello-world/</id>
     <link href="https://howaaard0423.github.io/2026/05/11/hello-world/"/>
     <published>2026-05-11T10:57:23.849Z</published>
-    <summary>
-      <![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-]]>
-    </summary>
+    <summary>Hello World!</summary>
     <title>Hello World</title>
-    <updated>2026-05-12T13:41:08.571Z</updated>
+    <updated>2026-05-13T07:18:56.411Z</updated>
   </entry>
 </feed>
